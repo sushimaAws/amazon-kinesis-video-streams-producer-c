@@ -176,6 +176,7 @@ found:
     return 0;
 }
 
+
 /**
  * Fills next token with JSON string.
  */
